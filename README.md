@@ -1,7 +1,5 @@
 # Typescript Boilerplate
 
-<img width="375" alt="Screenshot 2021-04-29 at 11 51 57 AM" src="https://user-images.githubusercontent.com/56909188/116509650-4eea0680-a8e1-11eb-9eb1-bc4745d22a0d.png">
-
 ## Highlights
 
 -   Typescript.
@@ -10,7 +8,7 @@
 -   No `else` or nested `if` statement in the code.
 -   No redux connect(mapToState/mapToDispatch), we perfer dispatch hook and state selectors.
 -   Uses Store Slices to reduce code boilerplate https://redux-toolkit.js.org/api/createSlice
--   Custom [API hook](https://github.com/bharatpe/add-bank-account/blob/master/src/Hooks/useService.ts) to reduce code. [click to see example.](https://github.com/bharatpe/add-bank-account/blob/master/src/features/Home/index.tsx#L47)
+-   Custom [API hook](https://github.com/shobhit1999/Typescript-boilerplate/blob/main/src/Hooks/useService.ts) to reduce code. [click to see example.](https://github.com/shobhit1999/Typescript-boilerplate/blob/main/src/features/Home/index.tsx#L11)
 -   Cancelable APIs check above API hook.
 -   Github actions to check code styling.
 
